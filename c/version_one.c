@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 
 /*
  * Let's have a go at writing a FizzBuzz before I Know anything 
